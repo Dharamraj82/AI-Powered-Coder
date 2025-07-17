@@ -22,7 +22,7 @@ const EditorReviewer = () => {
     setLoading(true);
     try {
       const response = await axios.post(
-        "http://localhost:3000/ai/get-response/",
+        "https://ai-powered-coder.vercel.app/ai/get-response/",
         { prompt: code }
       );
       setReview(response.data);
