@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Live Project Link](https://your-live-link-here.com)  
+👉 [Live Project Link](https://ai-powered-coder-6fk8.vercel.app/)  
 
 ---
 
