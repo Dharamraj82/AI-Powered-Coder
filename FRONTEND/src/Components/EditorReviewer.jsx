@@ -78,7 +78,7 @@ const EditorReviewer = () => {
         {/* Review Panel */}
         <div className="h-1/2 md:h-full w-full md:w-1/2 bg-gray-800 rounded-2xl p-4 md:text-xl drop-shadow-amber-50 overflow-y-auto text-zinc-100 custom-scroll">
           <button className="px-4 py-2 bg-sky-400 mb-2 font-medium select-none">
-            Review
+            Get Review Here
           </button>
           <Markdown>{review}</Markdown>
         </div>
