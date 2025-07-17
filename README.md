@@ -50,6 +50,8 @@
 ---
 
 ## 📁 Project Structure
+
+```plaintext
 AI-Power-Code-Reviewer/
 │
 ├── BACKEND/                        # Node.js + Express Server
@@ -85,4 +87,5 @@ AI-Power-Code-Reviewer/
 │   └── vercel.json
 │
 └── README.md                       # Project documentation
+
 
